@@ -7,3 +7,5 @@ Hello, this is a sample.
 x = 2
 y = 4
 print(x+y)
+# Say hi to Frank
+print('Hi, Frank! How are you today?')
